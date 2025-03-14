@@ -1,0 +1,11 @@
+img{
+    max-width:100%;
+    height:auto;
+    border-radius:50%;
+    display: block;
+    margin:10px auto;
+}
+    body { font-family: Arial, sans-serif; text-align: center; }
+header { background: #333; color: white; padding: 20px; }
+section { margin: 20px; }
+footer { background: #222; color: white; padding: 10px; }
